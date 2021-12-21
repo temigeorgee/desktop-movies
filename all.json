@@ -1,0 +1,970 @@
+{
+  "statusCode": 200,
+  "message": "Movie Groupings",
+  "data": {
+    "topTen": [
+      {
+        "_id": "6052fcc59c7243434c6939e0",
+        "description": "Wonder Woman (1984)",
+        "providerId": "610c40343c507b4251e2d836",
+        "mediaURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/movies%2FWonder.Woman.1984.mp4?alt=media&token=b1a1daab-9932-4381-b5d3-0d7d2c7829e5",
+        "previewURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/movies%2FWonder.Woman.1984.mp4?alt=media&token=b1a1daab-9932-4381-b5d3-0d7d2c7829e5",
+        "posterURL": [
+          "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/movies%2Fposters%2FWonderWoman1984cover.png?alt=media&token=2826de94-5291-4029-8553-ebf312b882c1"
+        ],
+        "title": "Wonder Woman (1984)",
+        "userFirstName": "ANTHONY",
+        "userLastName": "IDIGBE",
+        "userImageURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/Images%2F5fbb9bf6694f65ac33f8ff05%2Fprofile_image%2F1616045739668_c9m3im?alt=media&token=08056449-97d0-4af3-84a0-0ff1e285b743",
+        "totalViews": 0,
+        "userId": null,
+        "createdAt": "2021-03-18T07:09:57.916Z",
+        "totalViewed": 4,
+        "totalInList": 0,
+        "totalLikes": 2,
+        "releaseType": "soon",
+        "topTen": true,
+        "topTenLevel": 1,
+        "totalWatching": 1,
+        "price": 50,
+        "movieData": {
+          "inList": false,
+          "status": "",
+          "liked": false,
+          "lastDuration": 0
+        },
+        "provider": {
+          "_id": "610c40343c507b4251e2d836",
+          "name": "Limistah's Production",
+          "userId": "604e474e89d7f7cac661e51b",
+          "description": "This is some description",
+          "imageURL": "https://bitunnel-box.s3.us-east-2.amazonaws.com/user_photos/584f0dd0-f5e6-41f4-981a-35ac3498a128.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEY2U7SZ2EMJQWGA%2F20201108%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20201108T230230Z&X-Amz-Expires=100&X-Amz-Signature=7ea7a562ebe8e72aefd4614b215786d2703b5b1ff010bb62d6aa85f128554d09&X-Amz-SignedHeaders=host",
+          "createdAt": "2021-08-05T19:47:00.890Z"
+        }
+      },
+      {
+        "_id": "6052fbb79c7243434c6939dd",
+        "description": "Five Feet Apart",
+        "providerId": "600b2b92207cab6c5c595bcc",
+        "mediaURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/movies%2FFive.Feet.Apart.mp4?alt=media&token=8b10ac17-f5d7-4fb9-88ca-3928241e4855",
+        "previewURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/movies%2FFive.Feet.Apart.mp4?alt=media&token=8b10ac17-f5d7-4fb9-88ca-3928241e4855",
+        "posterURL": [
+          "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/movies%2Fposters%2FFiveFeetsApartcover.png?alt=media&token=d4dda12f-391b-4578-8d7b-e9103860489b"
+        ],
+        "title": "Five Feet Apart",
+        "userFirstName": "ANTHONY",
+        "userLastName": "IDIGBE",
+        "userImageURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/Images%2F5fbb9bf6694f65ac33f8ff05%2Fprofile_image%2F1616045739668_c9m3im?alt=media&token=08056449-97d0-4af3-84a0-0ff1e285b743",
+        "totalViews": 0,
+        "userId": null,
+        "createdAt": "2021-03-18T07:05:27.260Z",
+        "totalViewed": 1,
+        "totalWatching": 1,
+        "totalWatched": 1,
+        "topTen": true,
+        "topTenLevel": 2,
+        "totalInList": 1,
+        "movieData": {
+          "inList": false,
+          "status": "",
+          "liked": false,
+          "lastDuration": 0
+        },
+        "provider": null
+      },
+      {
+        "_id": "6052fc7d9c7243434c6939df",
+        "description": "Rattle Snake",
+        "providerId": "600b2b92207cab6c5c595bcc",
+        "mediaURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/movies%2FRattlesnake.2019.720p.WEBRip.800MB.x264-GalaxyRG.mp4?alt=media&token=1d952826-b9a0-42c1-8791-c97c452702aa",
+        "previewURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/movies%2FRattlesnake.2019.720p.WEBRip.800MB.x264-GalaxyRG.mp4?alt=media&token=1d952826-b9a0-42c1-8791-c97c452702aa",
+        "posterURL": [
+          "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/movies%2Fposters%2FRattlesnakeCover.png?alt=media&token=5eedbcef-ae7d-41de-ad90-7099934a726a"
+        ],
+        "title": "Rattle Snake",
+        "userFirstName": "ANTHONY",
+        "userLastName": "IDIGBE",
+        "userImageURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/Images%2F5fbb9bf6694f65ac33f8ff05%2Fprofile_image%2F1616045739668_c9m3im?alt=media&token=08056449-97d0-4af3-84a0-0ff1e285b743",
+        "totalViews": 0,
+        "userId": null,
+        "createdAt": "2021-03-18T07:08:45.190Z",
+        "totalViewed": 5,
+        "totalInList": 2,
+        "topTen": true,
+        "topTenLevel": 3,
+        "totalLikes": 1,
+        "price": "10",
+        "categories": ["61123f8886dd9a5cc3b62925", "610c452149a0134596ab0830"],
+        "featured": true,
+        "movieType": "movie",
+        "duration": 127000,
+        "movieData": {
+          "inList": false,
+          "status": "",
+          "liked": false,
+          "lastDuration": 0
+        },
+        "provider": null
+      }
+    ],
+    "popular": [],
+    "recommended": [
+      {
+        "_id": "61534e45eaa3cccd0c1ec9d9",
+        "title": "PLEASURE OF PAIN",
+        "description": "A young lady gets married to the man of her dreams, only to discover a monstrous side to a man she thought she knew.\n\n",
+        "casts": [
+          {
+            "name": "Chelsea Eze",
+            "imageURL": "https://res.cloudinary.com/dr9bbyvab/woozeee/profile.jpg"
+          },
+          {
+            "name": "Fredrick Leonard",
+            "imageURL": "https://res.cloudinary.com/dr9bbyvab/woozeee/profile.jpg"
+          }
+        ],
+        "categories": ["61123f7f86dd9a5cc3b62924", "61123f3b86dd9a5cc3b6291a"],
+        "releaseType": "old",
+        "languages": ["English"],
+        "movieType": "movie",
+        "providerId": "61289c7d9249953ed715dbd2",
+        "regionalSettings": {
+          "nigeria": true,
+          "asia": true,
+          "africa": true,
+          "europe": true,
+          "oceania": true,
+          "north america": true,
+          "south america": true
+        },
+        "posters": {
+          "mobile": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FPleasure%20of%20pain%20poster.jpg-1632842035382?alt=media&token=dc93c77b-aba5-4388-af85-e07f7b4afc54",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FPleasure%20of%20pain%20poster.jpg-1632842038248?alt=media&token=13de682a-7e6b-438e-a9b4-a088c15315fa"
+          },
+          "desktop": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FPleasure%20of%20pain%20poster.jpg-1632842042071?alt=media&token=f8030c6d-1187-41c6-9fa3-6500bc95f468",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FPleasure%20of%20pain%20poster.jpg-1632842045587?alt=media&token=560ed1ec-f26c-4d90-a8b1-48f779519b8d"
+          }
+        },
+        "thriller": {
+          "mobile": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FPLEASURE%20OF%20PAIN%20TRAILER%20-%20720p.mp4-1632842054121?alt=media&token=63073e7a-c87d-4803-9b77-4b2069938584",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FPLEASURE%20OF%20PAIN%20TRAILER%20-%201080p.mp4-1632842058517?alt=media&token=adc0f21f-8710-45e5-b587-b28524d45c32"
+          },
+          "desktop": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FPLEASURE%20OF%20PAIN%20TRAILER%20-%20720p.mp4-1632842054121?alt=media&token=63073e7a-c87d-4803-9b77-4b2069938584",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FPLEASURE%20OF%20PAIN%20TRAILER%20-%201080p.mp4-1632842058517?alt=media&token=adc0f21f-8710-45e5-b587-b28524d45c32"
+          }
+        },
+        "url": {
+          "mobile": {
+            "360": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FPLEASURE%20OF%20PAIN%20-%20720p%20final.mp4-1632842069381?alt=media&token=8750ef30-5a68-4f1b-b0dd-1940d08c21ea",
+            "720": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FPLEASURE%20OF%20PAIN%20-%20720p%20final.mp4-1632842069381?alt=media&token=8750ef30-5a68-4f1b-b0dd-1940d08c21ea",
+            "1080": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FPLEASURE%20OF%20PAIN%20-%201080p.mp4-1632842075731?alt=media&token=032b724f-ebc7-4033-ad61-222bbc13dbad"
+          },
+          "desktop": {
+            "720": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FPLEASURE%20OF%20PAIN%20-%201080p.mp4-1632842079623?alt=media&token=e8962350-da4c-4c3e-878b-27caa5fbee9f",
+            "1080": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FPLEASURE%20OF%20PAIN%20-%201080p.mp4-1632842079623?alt=media&token=e8962350-da4c-4c3e-878b-27caa5fbee9f",
+            "4k": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FPLEASURE%20OF%20PAIN%20-%204k.mp4-1632842084053?alt=media&token=770ad68a-426d-49a5-aca5-38f8b64837fd"
+          }
+        },
+        "director": "Emmanuel Akaemeh",
+        "prodCompany": "Kamdara TV Limited ",
+        "price": 100,
+        "dollarPrice": 0,
+        "regionalPrice": {
+          "dollar": 0,
+          "naira": 100
+        },
+        "discounts": "0",
+        "status": "saved",
+        "year": "2018",
+        "ratings": "PG18",
+        "duration": 4539.2,
+        "released": true,
+        "topTen": false,
+        "topTenLevel": 0,
+        "landscapePreviewURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FPLEASURE%20OF%20PAIN%20TRAILER%20-%201080p.mp4-1632842058517?alt=media&token=adc0f21f-8710-45e5-b587-b28524d45c32",
+        "portraitPosterURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FPleasure%20of%20pain%20poster.jpg-1632842038248?alt=media&token=13de682a-7e6b-438e-a9b4-a088c15315fa",
+        "movieURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FPLEASURE%20OF%20PAIN%20-%20720p%20final.mp4-1632842069381?alt=media&token=8750ef30-5a68-4f1b-b0dd-1940d08c21ea",
+        "posterURL": [
+          "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FPleasure%20of%20pain%20poster.jpg-1632842038248?alt=media&token=13de682a-7e6b-438e-a9b4-a088c15315fa"
+        ],
+        "totalLikes": 0,
+        "totalViewed": 0,
+        "totalWatched": 0,
+        "totalWatching": 0,
+        "totalInList": 0,
+        "createdAt": "2021-09-28T17:17:57.636Z",
+        "movieData": {
+          "inList": false,
+          "status": "",
+          "liked": false,
+          "lastDuration": 0
+        },
+        "provider": {
+          "_id": "61289c7d9249953ed715dbd2",
+          "name": "Promse Prods",
+          "userId": "60fb39983a83a8b5e281c28b",
+          "description": "This is some description",
+          "imageURL": "https://bitunnel-box.s3.us-east-2.amazonaws.com/user_photos/584f0dd0-f5e6-41f4-981a-35ac3498a128.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEY2U7SZ2EMJQWGA%2F20201108%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20201108T230230Z&X-Amz-Expires=100&X-Amz-Signature=7ea7a562ebe8e72aefd4614b215786d2703b5b1ff010bb62d6aa85f128554d09&X-Amz-SignedHeaders=host",
+          "createdAt": "2021-08-27T08:04:13.590Z"
+        }
+      },
+      {
+        "_id": "61530c48eaa3cccd0c1ec9c0",
+        "title": "MY NAME IS KHADI",
+        "description": "A mother is on the quest to heal her daughter's youthful exuberance, whilst battling with her out of control attitude the daughter decides to leave and live life by her own rules.",
+        "casts": [
+          {
+            "name": "\tAisha Mohammed",
+            "imageURL": "https://res.cloudinary.com/dr9bbyvab/woozeee/profile.jpg"
+          },
+          {
+            "name": "\tTina Mba",
+            "imageURL": "https://res.cloudinary.com/dr9bbyvab/woozeee/profile.jpg"
+          },
+          {
+            "name": "Kenneth Okolie",
+            "imageURL": "https://res.cloudinary.com/dr9bbyvab/woozeee/profile.jpg"
+          },
+          {
+            "name": "Obinna Nwaka",
+            "imageURL": "https://res.cloudinary.com/dr9bbyvab/woozeee/profile.jpg"
+          }
+        ],
+        "categories": ["61123f3b86dd9a5cc3b6291a", "61123f4586dd9a5cc3b6291c"],
+        "releaseType": "old",
+        "languages": ["English"],
+        "movieType": "movie",
+        "providerId": "61289c7d9249953ed715dbd2",
+        "regionalSettings": {
+          "nigeria": true,
+          "asia": true,
+          "africa": true,
+          "europe": true,
+          "oceania": true,
+          "north america": true,
+          "south america": true
+        },
+        "posters": {
+          "mobile": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20KHADI%20-%20POSTER.jpg-1632828582970?alt=media&token=cb5f47ee-0a87-48f5-90b1-2698d1336656",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20KHADI%20-%20POSTER.jpg-1632828587829?alt=media&token=619c444e-661c-4984-b643-db55f3ecd663"
+          },
+          "desktop": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20KHADI%20-%20POSTER.jpg-1632828593823?alt=media&token=ac5e153e-5fa9-4e25-893b-2c663bbea0fe",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20KHADI%20-%20POSTER.jpg-1632828597912?alt=media&token=f2e8fd34-5279-4472-90b5-9f46e7c05458"
+          }
+        },
+        "thriller": {
+          "mobile": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20KHADI%20TRAILER%20-%20720p.mp4-1632828612866?alt=media&token=e02c2b02-29eb-4618-a3ee-20abbf1959df",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20KHADI%20TRAILER%20-%201080p.mp4-1632828616965?alt=media&token=a31dac52-73f7-45dd-b895-15ac1c353f86"
+          },
+          "desktop": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20KHADI%20TRAILER%20-%20720p.mp4-1632828612866?alt=media&token=e02c2b02-29eb-4618-a3ee-20abbf1959df",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20KHADI%20TRAILER%20-%201080p.mp4-1632828616965?alt=media&token=a31dac52-73f7-45dd-b895-15ac1c353f86"
+          }
+        },
+        "url": {
+          "mobile": {
+            "360": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20KHADI%20-%20720p.mp4-1632828622455?alt=media&token=05184327-c683-4c2a-aa8a-f7a15a4d29ce",
+            "720": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20KHADI%20-%20720p.mp4-1632828622455?alt=media&token=05184327-c683-4c2a-aa8a-f7a15a4d29ce",
+            "1080": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20KHADI%20-%201080p.mp4-1632828628082?alt=media&token=36b7a550-c6da-49d5-ba80-be3dadc9307d"
+          },
+          "desktop": {
+            "720": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20KHADI%20-%201080p.mp4-1632830669969?alt=media&token=a1a20e3e-b881-4d80-93ad-bff91d4410ce",
+            "1080": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20KHADI%20-%201080p.mp4-1632830669969?alt=media&token=a1a20e3e-b881-4d80-93ad-bff91d4410ce",
+            "4k": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20KHADI%20-%204k.mp4-1632830712212?alt=media&token=0836759d-17d5-4331-b34a-dfda842b94d5"
+          }
+        },
+        "director": " Bright Wonder Obasi\t",
+        "prodCompany": "Tisha Production",
+        "price": 200,
+        "dollarPrice": 0,
+        "regionalPrice": {
+          "dollar": 0,
+          "naira": 200
+        },
+        "discounts": "0",
+        "status": "saved",
+        "year": "2016",
+        "ratings": "PG18",
+        "duration": 6351.168,
+        "released": true,
+        "topTen": false,
+        "topTenLevel": 0,
+        "landscapePreviewURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20KHADI%20TRAILER%20-%201080p.mp4-1632828616965?alt=media&token=a31dac52-73f7-45dd-b895-15ac1c353f86",
+        "portraitPosterURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20KHADI%20-%20POSTER.jpg-1632828587829?alt=media&token=619c444e-661c-4984-b643-db55f3ecd663",
+        "movieURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20KHADI%20-%20720p.mp4-1632828622455?alt=media&token=05184327-c683-4c2a-aa8a-f7a15a4d29ce",
+        "posterURL": [
+          "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20KHADI%20-%20POSTER.jpg-1632828587829?alt=media&token=619c444e-661c-4984-b643-db55f3ecd663"
+        ],
+        "totalLikes": 0,
+        "totalViewed": 0,
+        "totalWatched": 0,
+        "totalWatching": 0,
+        "totalInList": 0,
+        "createdAt": "2021-09-28T12:36:24.580Z",
+        "movieData": {
+          "inList": false,
+          "status": "",
+          "liked": false,
+          "lastDuration": 0
+        },
+        "provider": {
+          "_id": "61289c7d9249953ed715dbd2",
+          "name": "Promse Prods",
+          "userId": "60fb39983a83a8b5e281c28b",
+          "description": "This is some description",
+          "imageURL": "https://bitunnel-box.s3.us-east-2.amazonaws.com/user_photos/584f0dd0-f5e6-41f4-981a-35ac3498a128.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEY2U7SZ2EMJQWGA%2F20201108%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20201108T230230Z&X-Amz-Expires=100&X-Amz-Signature=7ea7a562ebe8e72aefd4614b215786d2703b5b1ff010bb62d6aa85f128554d09&X-Amz-SignedHeaders=host",
+          "createdAt": "2021-08-27T08:04:13.590Z"
+        }
+      },
+      {
+        "_id": "6152f536eaa3cccd0c1ec9b7",
+        "title": "MY NAME IS TAYO",
+        "description": "After applying for more than 200 jobs, Tayo is frustrated and decided to try something new but all didn't go as planned.",
+        "casts": [
+          {
+            "name": "Daniel 'Sir Dee' Attah",
+            "imageURL": "https://res.cloudinary.com/dr9bbyvab/woozeee/profile.jpg"
+          },
+          {
+            "name": "Avala",
+            "imageURL": "https://res.cloudinary.com/dr9bbyvab/woozeee/profile.jpg"
+          },
+          {
+            "name": "Seyi Awolowo",
+            "imageURL": "https://res.cloudinary.com/dr9bbyvab/woozeee/profile.jpg"
+          },
+          {
+            "name": "Ocee Mbadiwe",
+            "imageURL": "https://res.cloudinary.com/dr9bbyvab/woozeee/profile.jpg"
+          },
+          {
+            "name": "Ozee Mbadiwe",
+            "imageURL": "https://res.cloudinary.com/dr9bbyvab/woozeee/profile.jpg"
+          },
+          {
+            "name": "Ame Aiyejina",
+            "imageURL": "https://res.cloudinary.com/dr9bbyvab/woozeee/profile.jpg"
+          }
+        ],
+        "categories": [
+          "61123f7f86dd9a5cc3b62924",
+          "61123f3b86dd9a5cc3b6291a",
+          "61123f2786dd9a5cc3b62917"
+        ],
+        "releaseType": "new",
+        "languages": ["English"],
+        "movieType": "movie",
+        "providerId": "61289c7d9249953ed715dbd2",
+        "regionalSettings": {
+          "nigeria": true,
+          "asia": true,
+          "africa": true,
+          "europe": true,
+          "oceania": true,
+          "north america": true,
+          "south america": true
+        },
+        "posters": {
+          "mobile": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20TAYO%20-%20POTRAIT.jpg-1632818566552?alt=media&token=58dc3933-b968-49b2-a811-c63c23a0bd7f",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20TAYO%20-%20POTRAIT.jpg-1632849525168?alt=media&token=e787e1e9-a482-47f3-970e-85b8c56ad9d8"
+          },
+          "desktop": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20TAYO%20-%20POTRAIT.jpg-1632818582759?alt=media&token=11df1bb2-f553-40c5-a8c7-ea52aae63723",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20TAYO%20-%20POTRAIT.jpg-1632849532101?alt=media&token=cda97a04-66ca-4838-8d32-ac73f6db895e"
+          }
+        },
+        "thriller": {
+          "mobile": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20TAYO%20TRAILER%20-%20720p.mp4-1632818623206?alt=media&token=3308e8fe-200d-4e63-bd9e-7cc822365365",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20TAYO%20TRAILER%20-%201080p.mp4-1632818626816?alt=media&token=03c7613c-7f73-4163-9b98-cb59d2b1b289"
+          },
+          "desktop": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20TAYO%20TRAILER%20-%20720p.mp4-1632818623206?alt=media&token=3308e8fe-200d-4e63-bd9e-7cc822365365",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20TAYO%20TRAILER%20-%201080p.mp4-1632818626816?alt=media&token=03c7613c-7f73-4163-9b98-cb59d2b1b289"
+          }
+        },
+        "url": {
+          "mobile": {
+            "360": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20TAYO%20-%20720p.mp4-1632819004691?alt=media&token=83cab758-8102-4808-9e0a-c9e4800948c7",
+            "720": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20TAYO%20-%20720p.mp4-1632819004691?alt=media&token=83cab758-8102-4808-9e0a-c9e4800948c7",
+            "1080": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20TAYO%20-%201080p.mp4-1632819009840?alt=media&token=18d45add-5112-4eaf-8f0c-315c7292b4d6"
+          },
+          "desktop": {
+            "720": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20TAYO%20-%201080p.mp4-1632819017628?alt=media&token=c7b9a0c4-5ef1-425c-b2ac-47433edc7a2d",
+            "1080": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20TAYO%20-%201080p.mp4-1632819017628?alt=media&token=c7b9a0c4-5ef1-425c-b2ac-47433edc7a2d",
+            "4k": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20TAYO%20-%204k.mp4-1632818685373?alt=media&token=f837762b-9a3d-40c6-a937-c6fa2b87019d"
+          }
+        },
+        "director": "Stephanie Dadet",
+        "prodCompany": "Woozee Original",
+        "price": 0,
+        "dollarPrice": 0,
+        "regionalPrice": {
+          "dollar": 0,
+          "naira": 300
+        },
+        "discounts": "0",
+        "status": "saved",
+        "year": "2021",
+        "ratings": "PG18",
+        "duration": 6281.237333,
+        "released": true,
+        "topTen": false,
+        "topTenLevel": 0,
+        "landscapePreviewURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20TAYO%20TRAILER%20-%201080p.mp4-1632818626816?alt=media&token=03c7613c-7f73-4163-9b98-cb59d2b1b289",
+        "portraitPosterURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20TAYO%20-%20LANDSCAPE.jpg-1632818572972?alt=media&token=5b40ade9-6b4e-457c-a512-bd4cb9823165",
+        "movieURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20TAYO%20-%20720p.mp4-1632819004691?alt=media&token=83cab758-8102-4808-9e0a-c9e4800948c7",
+        "posterURL": [
+          "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FMY%20NAME%20IS%20TAYO%20-%20LANDSCAPE.jpg-1632818572972?alt=media&token=5b40ade9-6b4e-457c-a512-bd4cb9823165"
+        ],
+        "totalLikes": 0,
+        "totalViewed": 1,
+        "totalWatched": 0,
+        "totalWatching": 0,
+        "totalInList": 0,
+        "createdAt": "2021-09-28T10:57:58.852Z",
+        "movieData": {
+          "inList": false,
+          "status": "",
+          "liked": false,
+          "lastDuration": 0
+        },
+        "provider": {
+          "_id": "61289c7d9249953ed715dbd2",
+          "name": "Promse Prods",
+          "userId": "60fb39983a83a8b5e281c28b",
+          "description": "This is some description",
+          "imageURL": "https://bitunnel-box.s3.us-east-2.amazonaws.com/user_photos/584f0dd0-f5e6-41f4-981a-35ac3498a128.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEY2U7SZ2EMJQWGA%2F20201108%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20201108T230230Z&X-Amz-Expires=100&X-Amz-Signature=7ea7a562ebe8e72aefd4614b215786d2703b5b1ff010bb62d6aa85f128554d09&X-Amz-SignedHeaders=host",
+          "createdAt": "2021-08-27T08:04:13.590Z"
+        }
+      },
+      {
+        "_id": "612f9118f09b78b95f04327d",
+        "title": "72 Hours",
+        "description": "Two women trade places for 72 hours, to find out who is better at being a wife. Watch now.",
+        "casts": [
+          {
+            "name": "Alex Ekubo",
+            "imageURL": "https://res.cloudinary.com/dr9bbyvab/woozeee/profile.jpg"
+          },
+          {
+            "name": "Chelsea Eze",
+            "imageURL": "https://res.cloudinary.com/dr9bbyvab/woozeee/profile.jpg"
+          },
+          {
+            "name": "Esther Audu",
+            "imageURL": "https://res.cloudinary.com/dr9bbyvab/woozeee/profile.jpg"
+          }
+        ],
+        "categories": ["61123f5a86dd9a5cc3b62920", "61123f3b86dd9a5cc3b6291a"],
+        "releaseType": "old",
+        "languages": ["English"],
+        "movieType": "movie",
+        "providerId": "61289c7d9249953ed715dbd2",
+        "regionalSettings": {
+          "nigeria": true,
+          "asia": true,
+          "africa": true,
+          "europe": true,
+          "oceania": true,
+          "north america": true,
+          "south america": true
+        },
+        "posters": {
+          "mobile": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2F72%20HOURS%20POSTER%201.jpg-1632832880419?alt=media&token=1b400e51-2dcb-47fe-8ca2-18ee1d730b9b",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2F72%20HOURS%20POSTER%201.jpg-1632832887963?alt=media&token=5c1f0b2b-b961-4aba-b8e8-03541c56e497"
+          },
+          "desktop": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2F72%20HOURS%20POSTER%201.jpg-1632832893450?alt=media&token=7764accc-c8aa-4d02-805b-f9913dee1cd3",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2F72%20HOURS%20POSTER%201.jpg-1632832898841?alt=media&token=22e5949a-b991-49f0-a418-a5792ee97d13"
+          }
+        },
+        "thriller": {
+          "mobile": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2F72%20HOURS%20TRAILER%20-%20720p.mp4-1630483327194?alt=media&token=09f6bf94-8391-4adf-8c4b-2c773bc8ed09",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2F72%20HOURS%20TRAILER%20-%201080p.mp4-1630483877616?alt=media&token=5beca3bd-470c-4202-b064-78c17bde3f84"
+          },
+          "desktop": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2F72%20HOURS%20TRAILER%20-%20720p.mp4-1630483327194?alt=media&token=09f6bf94-8391-4adf-8c4b-2c773bc8ed09",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2F72%20HOURS%20TRAILER%20-%201080p.mp4-1630483877616?alt=media&token=5beca3bd-470c-4202-b064-78c17bde3f84"
+          }
+        },
+        "url": {
+          "mobile": {
+            "360": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2F72%20HOURS%20-%20720p%20FINAL.mp4-1630484669624?alt=media&token=fc5e008d-0bf2-4dfc-b559-f813ffba2b42",
+            "720": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2F72%20HOURS%20-%20720p%20FINAL.mp4-1630484669624?alt=media&token=fc5e008d-0bf2-4dfc-b559-f813ffba2b42",
+            "1080": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2F72%20HOURS%20-%201080p%20FINAL.mp4-1630498593069?alt=media&token=7a7b0ac2-2499-4d33-8b92-d598d52c1e80"
+          },
+          "desktop": {
+            "720": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2F72%20HOURS%20-%201080p%20FINAL.mp4-1630500443775?alt=media&token=cfc61bfb-ab5b-4a2a-9289-0dbd2ce371c6",
+            "1080": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2F72%20HOURS%20-%201080p%20FINAL.mp4-1630500443775?alt=media&token=cfc61bfb-ab5b-4a2a-9289-0dbd2ce371c6",
+            "4k": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2F72%20HOURS%20-%204K%20FINAL.mp4-1630502954675?alt=media&token=7dc48f27-2633-45e7-b103-45626d563cc3"
+          }
+        },
+        "price": 0,
+        "dollarPrice": 0,
+        "regionalPrice": {
+          "dollar": 1,
+          "naira": 200
+        },
+        "discounts": "0",
+        "status": "saved",
+        "year": "2018",
+        "ratings": "PG18",
+        "duration": 7167.722667,
+        "released": true,
+        "topTen": false,
+        "topTenLevel": 0,
+        "landscapePreviewURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2F72%20HOURS%20TRAILER%20-%201080p.mp4-1630483877616?alt=media&token=5beca3bd-470c-4202-b064-78c17bde3f84",
+        "portraitPosterURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2F72-hours-nollywood-movie.jpeg-1630483260354?alt=media&token=4513755b-3a9b-4aca-99a8-5dd98e9a60d0",
+        "movieURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2F72%20HOURS%20-%20720p%20FINAL.mp4-1630484669624?alt=media&token=fc5e008d-0bf2-4dfc-b559-f813ffba2b42",
+        "posterURL": [
+          "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2F72-hours-nollywood-movie.jpeg-1630483260354?alt=media&token=4513755b-3a9b-4aca-99a8-5dd98e9a60d0"
+        ],
+        "totalLikes": 0,
+        "totalViewed": 3,
+        "totalWatched": 0,
+        "totalWatching": 0,
+        "totalInList": 0,
+        "createdAt": "2021-09-01T14:41:28.403Z",
+        "id": "612f9118f09b78b95f04327d",
+        "director": "Kabat Esosa Egbon",
+        "prodCompany": "Kamdara TV Limited ",
+        "movieData": {
+          "inList": false,
+          "status": "",
+          "liked": false,
+          "lastDuration": 0
+        },
+        "provider": {
+          "_id": "61289c7d9249953ed715dbd2",
+          "name": "Promse Prods",
+          "userId": "60fb39983a83a8b5e281c28b",
+          "description": "This is some description",
+          "imageURL": "https://bitunnel-box.s3.us-east-2.amazonaws.com/user_photos/584f0dd0-f5e6-41f4-981a-35ac3498a128.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEY2U7SZ2EMJQWGA%2F20201108%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20201108T230230Z&X-Amz-Expires=100&X-Amz-Signature=7ea7a562ebe8e72aefd4614b215786d2703b5b1ff010bb62d6aa85f128554d09&X-Amz-SignedHeaders=host",
+          "createdAt": "2021-08-27T08:04:13.590Z"
+        }
+      },
+      {
+        "_id": "612be7459249953ed715dbeb",
+        "title": "Behind The Curtain",
+        "description": "A conscientious employee about to go on trial for murder glumly recounts to her lawyer the story of how her dream job turned into an ultimate nightmare.",
+        "casts": [
+          {
+            "name": "Empress Njama",
+            "imageURL": "https://txtmag.com/storage/2021/06/D5FC7AD6-4BFC-4D49-9560-38921836EF0C.jpeg"
+          },
+          {
+            "name": "Paul Sambo",
+            "imageURL": "https://txtmag.com/storage/2021/06/D5FC7AD6-4BFC-4D49-9560-38921836EF0C.jpeg"
+          },
+          {
+            "name": "Happy Julian Uchendu",
+            "imageURL": "https://txtmag.com/storage/2021/06/D5FC7AD6-4BFC-4D49-9560-38921836EF0C.jpeg"
+          },
+          {
+            "name": "Chuks Chyke",
+            "imageURL": "https://txtmag.com/storage/2021/06/D5FC7AD6-4BFC-4D49-9560-38921836EF0C.jpeg"
+          },
+          {
+            "name": "Tonia Nwosu",
+            "imageURL": "https://txtmag.com/storage/2021/06/D5FC7AD6-4BFC-4D49-9560-38921836EF0C.jpeg"
+          }
+        ],
+        "categories": [
+          "61123f5a86dd9a5cc3b62920",
+          "61123f3b86dd9a5cc3b6291a",
+          "61123f7f86dd9a5cc3b62924",
+          "61123f2b86dd9a5cc3b62918"
+        ],
+        "releaseType": "old",
+        "languages": ["English"],
+        "movieType": "movie",
+        "providerId": "61289c7d9249953ed715dbd2",
+        "regionalSettings": {
+          "nigeria": true,
+          "asia": true,
+          "africa": true,
+          "europe": true,
+          "oceania": true,
+          "north america": true,
+          "south america": true
+        },
+        "posters": {
+          "mobile": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FBehind%20the%20Curtain%20Poster%20Potrait%20.jpg-1630247000422?alt=media&token=93883269-337e-44d7-a058-2c5a6bf05689",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FBehind%20the%20Curtain%20Poster%20Lanscape%20final.jpg-1630247007625?alt=media&token=622f0d7f-2256-4b76-b260-5ba9a36ef416"
+          },
+          "desktop": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FBEHIND%20THE%20CURTAIN%20DESKTOP%3AWED%20-%20POTRAIT.jpg-1630247034841?alt=media&token=5bd7a4ac-6652-4aa0-8d2d-7a573c336fe6",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FBEHIND%20THE%20CURTAIN%20DESKTOP%3AWED%20-%20LANDSCAPE.jpg-1630247041815?alt=media&token=7805ef42-0754-4413-9c6b-69a0bbdda10d"
+          }
+        },
+        "thriller": {
+          "mobile": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FBEHIND%20THE%20CURTAIN%20TRAILER%20-%20720p.mp4-1630247079143?alt=media&token=ac355767-6d4f-4c43-acc8-d01442bbfe92",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FBEHIND%20THE%20CURTAIN%20TRAILER%20-%201080p.mp4-1630247085314?alt=media&token=bdcf45df-a2a3-41fc-8fff-2653405a5a9f"
+          },
+          "desktop": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FBEHIND%20THE%20CURTAIN%20TRAILER%20-%20720p.mp4-1630247079143?alt=media&token=ac355767-6d4f-4c43-acc8-d01442bbfe92",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FBEHIND%20THE%20CURTAIN%20TRAILER%20-%201080p.mp4-1630247085314?alt=media&token=bdcf45df-a2a3-41fc-8fff-2653405a5a9f"
+          }
+        },
+        "url": {
+          "mobile": {
+            "360": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FBEHIND%20THE%20CURTAIN%20-%20720p.mp4-1630247099051?alt=media&token=8f9d3546-1b30-4980-a451-17c45af7df97",
+            "720": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FBEHIND%20THE%20CURTAIN%20-%20720p.mp4-1630247099051?alt=media&token=8f9d3546-1b30-4980-a451-17c45af7df97",
+            "1080": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FBEHIND%20THE%20CURTAIN%20-%201080p%20FINAL%20FINALLY.mp4-1630263474696?alt=media&token=8d5f5ecc-508a-4b19-99ae-36b3382d2f11"
+          },
+          "desktop": {
+            "720": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FBEHIND%20THE%20CURTAIN%20-%201080p%20FINAL%20FINALLY.mp4-1630263481192?alt=media&token=187aac4d-23a2-4b38-9aa7-c98dcb9f90fb",
+            "1080": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FBEHIND%20THE%20CURTAIN%20-%201080p%20FINAL%20FINALLY.mp4-1630263481192?alt=media&token=187aac4d-23a2-4b38-9aa7-c98dcb9f90fb",
+            "4k": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FBEHIND%20THE%20CURTAIN%20-%204K.mp4-1630263489346?alt=media&token=413460c2-bf87-4c62-a880-915b16e382f1"
+          }
+        },
+        "price": 195,
+        "dollarPrice": 0,
+        "regionalPrice": {
+          "dollar": 1,
+          "naira": 195
+        },
+        "discounts": "0",
+        "status": "saved",
+        "year": "2015",
+        "ratings": "PG18",
+        "duration": 6879.722667,
+        "released": true,
+        "topTen": false,
+        "topTenLevel": 0,
+        "landscapePreviewURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FBEHIND%20THE%20CURTAIN%20TRAILER%20-%201080p.mp4-1630247085314?alt=media&token=bdcf45df-a2a3-41fc-8fff-2653405a5a9f",
+        "portraitPosterURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FBehind%20the%20Curtain%20Poster%20Lanscape%20final.jpg-1630247007625?alt=media&token=622f0d7f-2256-4b76-b260-5ba9a36ef416",
+        "movieURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FBEHIND%20THE%20CURTAIN%20-%20720p.mp4-1630247099051?alt=media&token=8f9d3546-1b30-4980-a451-17c45af7df97",
+        "posterURL": [
+          "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FBehind%20the%20Curtain%20Poster%20Lanscape%20final.jpg-1630247007625?alt=media&token=622f0d7f-2256-4b76-b260-5ba9a36ef416"
+        ],
+        "totalLikes": 0,
+        "totalViewed": 1,
+        "totalWatched": 0,
+        "totalWatching": 0,
+        "totalInList": 1,
+        "createdAt": "2021-08-29T20:00:05.265Z",
+        "movieData": {
+          "inList": false,
+          "status": "",
+          "liked": false,
+          "lastDuration": 0
+        },
+        "provider": {
+          "_id": "61289c7d9249953ed715dbd2",
+          "name": "Promse Prods",
+          "userId": "60fb39983a83a8b5e281c28b",
+          "description": "This is some description",
+          "imageURL": "https://bitunnel-box.s3.us-east-2.amazonaws.com/user_photos/584f0dd0-f5e6-41f4-981a-35ac3498a128.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEY2U7SZ2EMJQWGA%2F20201108%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20201108T230230Z&X-Amz-Expires=100&X-Amz-Signature=7ea7a562ebe8e72aefd4614b215786d2703b5b1ff010bb62d6aa85f128554d09&X-Amz-SignedHeaders=host",
+          "createdAt": "2021-08-27T08:04:13.590Z"
+        }
+      },
+      {
+        "_id": "612b53479249953ed715dbe4",
+        "title": "Different Passion",
+        "description": "A young beautiful lady decides to follow her passion of being a Hairstylist, but is discouraged by her sister who believes she could take the fast lane to make quick money. She soon realises her passion will pave way for her.\n\n",
+        "casts": [
+          {
+            "name": "Empress Njamah",
+            "imageURL": "https://txtmag.com/storage/2021/06/D5FC7AD6-4BFC-4D49-9560-38921836EF0C.jpeg"
+          },
+          {
+            "name": "Paul Sambo",
+            "imageURL": "https://txtmag.com/storage/2021/06/D5FC7AD6-4BFC-4D49-9560-38921836EF0C.jpeg"
+          },
+          {
+            "name": "Lucy Ameh",
+            "imageURL": "https://txtmag.com/storage/2021/06/D5FC7AD6-4BFC-4D49-9560-38921836EF0C.jpeg"
+          },
+          {
+            "name": "Happy Julian Uchendu",
+            "imageURL": "https://txtmag.com/storage/2021/06/D5FC7AD6-4BFC-4D49-9560-38921836EF0C.jpeg"
+          },
+          {
+            "name": "Paul Adams Jnr",
+            "imageURL": "https://txtmag.com/storage/2021/06/D5FC7AD6-4BFC-4D49-9560-38921836EF0C.jpeg"
+          }
+        ],
+        "categories": ["61123f4586dd9a5cc3b6291c", "61123f3b86dd9a5cc3b6291a"],
+        "releaseType": "old",
+        "languages": ["English"],
+        "movieType": "movie",
+        "providerId": "61289c7d9249953ed715dbd2",
+        "regionalSettings": {
+          "nigeria": true,
+          "asia": true,
+          "africa": true,
+          "europe": true,
+          "oceania": true,
+          "north america": true,
+          "south america": true
+        },
+        "posters": {
+          "mobile": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FDIFFERENT%20PASSION%20POSTER%20-%20POTRAIT.jpg-1630225942873?alt=media&token=2868f6b1-c5bc-4d47-b9e8-606a516d7f06",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FDIFFERENT%20PASSION%20POSTER%20-%20LANDSCAPE.jpg-1630225949955?alt=media&token=6ca9b356-b46b-4ca2-b7a4-320d98191406"
+          },
+          "desktop": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FDIFFERENT%20PASSION%20DESKTOP%3AWEB%20-%20POTRAIT.jpg-1630225960880?alt=media&token=2d86ee59-fb52-46b8-b718-cd1a39e8febe",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FDIFFERENT%20PASSION%20DESKTOP%3AWEB%20-%20LANDSCAPE.jpg-1630225968411?alt=media&token=95d07dcd-f7b4-423c-a8fc-4b6ac02533b1"
+          }
+        },
+        "thriller": {
+          "mobile": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FDIFFERENT%20PASSION%20TRAILER%20-%20720p.mp4-1630226024972?alt=media&token=3b96f9bb-16bb-4187-be4e-a15f565a4da4",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FDIFFERENT%20PASSION%20TRAILER%20-%201080p.mp4-1630226031063?alt=media&token=5eea6c50-b321-4742-867e-375c55080dcb"
+          },
+          "desktop": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FDIFFERENT%20PASSION%20TRAILER%20-%20720p.mp4-1630226024972?alt=media&token=3b96f9bb-16bb-4187-be4e-a15f565a4da4",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FDIFFERENT%20PASSION%20TRAILER%20-%201080p.mp4-1630226031063?alt=media&token=5eea6c50-b321-4742-867e-375c55080dcb"
+          }
+        },
+        "url": {
+          "mobile": {
+            "360": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FDIFFERENT%20PASSION%20-%20720p.mp4-1630226042674?alt=media&token=3adedc46-8382-473e-8de9-9b3abb42bbdc",
+            "720": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FDIFFERENT%20PASSION%20-%20720p.mp4-1630226042674?alt=media&token=3adedc46-8382-473e-8de9-9b3abb42bbdc",
+            "1080": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FDIFFERENT%20PASSION%20-%201080p.mp4-1630226048956?alt=media&token=eebcc070-656d-4630-9029-c302e912d520"
+          },
+          "desktop": {
+            "720": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FDIFFERENT%20PASSION%20-%201080p.mp4-1630226056173?alt=media&token=3c354bae-495a-4e90-8afc-ff5577cfce9c",
+            "1080": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FDIFFERENT%20PASSION%20-%201080p.mp4-1630226056173?alt=media&token=3c354bae-495a-4e90-8afc-ff5577cfce9c",
+            "4k": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FDIFFERENT%20PASSION%20-%204k.mp4-1630226062057?alt=media&token=252dd69a-8942-444a-9fb7-643f05e3db07"
+          }
+        },
+        "price": 200,
+        "dollarPrice": 0,
+        "regionalPrice": {
+          "dollar": 1,
+          "naira": 200
+        },
+        "discounts": "0",
+        "status": "saved",
+        "year": "2015",
+        "ratings": "PG18",
+        "duration": 4892.373333,
+        "released": true,
+        "topTen": false,
+        "topTenLevel": 0,
+        "landscapePreviewURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FDIFFERENT%20PASSION%20TRAILER%20-%201080p.mp4-1630226031063?alt=media&token=5eea6c50-b321-4742-867e-375c55080dcb",
+        "portraitPosterURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FDIFFERENT%20PASSION%20POSTER%20-%20LANDSCAPE.jpg-1630225949955?alt=media&token=6ca9b356-b46b-4ca2-b7a4-320d98191406",
+        "movieURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FDIFFERENT%20PASSION%20-%20720p.mp4-1630226042674?alt=media&token=3adedc46-8382-473e-8de9-9b3abb42bbdc",
+        "posterURL": [
+          "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FDIFFERENT%20PASSION%20POSTER%20-%20LANDSCAPE.jpg-1630225949955?alt=media&token=6ca9b356-b46b-4ca2-b7a4-320d98191406"
+        ],
+        "totalLikes": 0,
+        "totalViewed": 1,
+        "totalWatched": 0,
+        "totalWatching": 0,
+        "totalInList": 1,
+        "createdAt": "2021-08-29T09:28:39.679Z",
+        "movieData": {
+          "inList": false,
+          "status": "",
+          "liked": false,
+          "lastDuration": 0
+        },
+        "provider": {
+          "_id": "61289c7d9249953ed715dbd2",
+          "name": "Promse Prods",
+          "userId": "60fb39983a83a8b5e281c28b",
+          "description": "This is some description",
+          "imageURL": "https://bitunnel-box.s3.us-east-2.amazonaws.com/user_photos/584f0dd0-f5e6-41f4-981a-35ac3498a128.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEY2U7SZ2EMJQWGA%2F20201108%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20201108T230230Z&X-Amz-Expires=100&X-Amz-Signature=7ea7a562ebe8e72aefd4614b215786d2703b5b1ff010bb62d6aa85f128554d09&X-Amz-SignedHeaders=host",
+          "createdAt": "2021-08-27T08:04:13.590Z"
+        }
+      },
+      {
+        "_id": "6128270e9249953ed715dbcb",
+        "title": "Lamine",
+        "description": "Lamine is a beautiful young woman who has developed a resentment towards men because of past unpleasant relationships. She draws her friends into her game of teaching men the lessons of their lives, until she meets a detective whose assignment is to investigate her for murder. This detective falls hopelessly in love with her and chooses to stay by her side even after discovering that she is a murderer. But will Lamine change her ways for him?...",
+        "casts": [
+          {
+            "name": "Beverly Naya",
+            "imageURL": "https://res.cloudinary.com/dr9bbyvab/woozeee/profile.jpg"
+          },
+          {
+            "name": " Deyemi Okanlawon",
+            "imageURL": "https://res.cloudinary.com/dr9bbyvab/woozeee/profile.jpg"
+          },
+          {
+            "name": "Uru Eke",
+            "imageURL": "https://res.cloudinary.com/dr9bbyvab/woozeee/profile.jpg"
+          },
+          {
+            "name": "Omowunmi Dada",
+            "imageURL": "https://res.cloudinary.com/dr9bbyvab/woozeee/profile.jpg"
+          },
+          {
+            "name": " Wale Macaulay",
+            "imageURL": "https://res.cloudinary.com/dr9bbyvab/woozeee/profile.jpg"
+          },
+          {
+            "name": "Buchi Ojieh",
+            "imageURL": "https://res.cloudinary.com/dr9bbyvab/woozeee/profile.jpg"
+          },
+          {
+            "name": "Kayode Peters",
+            "imageURL": "https://res.cloudinary.com/dr9bbyvab/woozeee/profile.jpg"
+          },
+          {
+            "name": "Stephanie Umogbai",
+            "imageURL": "https://res.cloudinary.com/dr9bbyvab/woozeee/profile.jpg"
+          },
+          {
+            "name": " Jazzman Olofin",
+            "imageURL": "https://res.cloudinary.com/dr9bbyvab/woozeee/profile.jpg"
+          },
+          {
+            "name": "Simisola Banjo",
+            "imageURL": "https://res.cloudinary.com/dr9bbyvab/woozeee/profile.jpg"
+          },
+          {
+            "name": "Dayo Davies",
+            "imageURL": "https://res.cloudinary.com/dr9bbyvab/woozeee/profile.jpg"
+          }
+        ],
+        "categories": [
+          "61123f7f86dd9a5cc3b62924",
+          "61123f5a86dd9a5cc3b62920",
+          "61123f3b86dd9a5cc3b6291a"
+        ],
+        "releaseType": "old",
+        "languages": ["English"],
+        "movieType": "movie",
+        "providerId": "61289c7d9249953ed715dbd2",
+        "regionalSettings": {
+          "nigeria": true,
+          "asia": true,
+          "africa": true,
+          "europe": true,
+          "oceania": true,
+          "north america": true,
+          "south america": true
+        },
+        "posters": {
+          "mobile": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FLAMINE%20POSTER%20-%20POTRAIT.jpg?alt=media&token=9ebbd3c1-e4a1-4db1-8dff-d0f267400734",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FLamine%20Poster%20Potrait%20FINAL.jpg-1632849915653?alt=media&token=87ad653e-f16d-4841-ade4-a02031e78aae"
+          },
+          "desktop": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FLamine%20Poster%20Potrait%20FINAL.jpg?alt=media&token=4e7d7db8-48d6-44fa-818a-5ff3fe3ea6bc",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FLamine%20Poster%20Potrait%20FINAL.jpg-1632849928285?alt=media&token=c4fe83d2-ce07-47f9-94b3-f770cb83b54d"
+          }
+        },
+        "thriller": {
+          "mobile": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FLamine%20Trailer%20for%20Mobile%20-%20720p.mp4?alt=media&token=289e7680-f864-4a23-919b-382d6148d755",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FLamine%20Trailer%20for%20Web%3ADesktop%20-%201080p.mp4?alt=media&token=e1486cd7-7009-40df-b636-032702c51acf"
+          },
+          "desktop": {
+            "portrait": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FLamine%20Trailer%20for%20Mobile%20-%20720p.mp4?alt=media&token=289e7680-f864-4a23-919b-382d6148d755",
+            "landscape": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FLamine%20Trailer%20for%20Web%3ADesktop%20-%201080p.mp4?alt=media&token=e1486cd7-7009-40df-b636-032702c51acf"
+          }
+        },
+        "url": {
+          "mobile": {
+            "360": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FLAMINE%20FULL%20MOVIE%20FOR%20MOBILE%20-%20720p.mp4?alt=media&token=c2f9ce6a-991c-421f-85d1-202202ef4e7f",
+            "720": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FLAMINE%20FULL%20MOVIE%20FOR%20MOBILE%20-%20720p.mp4?alt=media&token=c2f9ce6a-991c-421f-85d1-202202ef4e7f",
+            "1080": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FLAMINE%20FULL%20MOVIE%20FOR%20WED%3ADESKTOP%20-%201080p.mp4?alt=media&token=4215809b-7a1c-46b4-90b9-85984fe9334e"
+          },
+          "desktop": {
+            "720": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FLAMINE%20FULL%20MOVIE%20FOR%20WED%3ADESKTOP%20-%201080p.mp4?alt=media&token=4215809b-7a1c-46b4-90b9-85984fe9334e",
+            "1080": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FLAMINE%20FULL%20MOVIE%20FOR%20WED%3ADESKTOP%20-%201080p.mp4?alt=media&token=4215809b-7a1c-46b4-90b9-85984fe9334e",
+            "4k": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FLAMINE%20FULL%20MOVIE%20-%204K.mp4?alt=media&token=6d2a0aed-c718-49b2-a84c-97353766e358"
+          }
+        },
+        "price": 0,
+        "dollarPrice": 0,
+        "regionalPrice": {
+          "dollar": 0,
+          "naira": 100
+        },
+        "discounts": "0",
+        "status": "saved",
+        "year": "2015",
+        "ratings": "PG18",
+        "duration": 5643.050667,
+        "released": true,
+        "topTen": false,
+        "topTenLevel": 0,
+        "landscapePreviewURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FLamine%20Trailer%20for%20Web%3ADesktop%20-%201080p.mp4?alt=media&token=e1486cd7-7009-40df-b636-032702c51acf",
+        "portraitPosterURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FLAMINE%20POSTER%20-%20LANDSCAPE.jpg?alt=media&token=765ee695-8e50-4b8a-af65-8fb3e5093511",
+        "movieURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FLAMINE%20FULL%20MOVIE%20FOR%20MOBILE%20-%20720p.mp4?alt=media&token=c2f9ce6a-991c-421f-85d1-202202ef4e7f",
+        "posterURL": [
+          "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/images%2Fentries%2FLAMINE%20POSTER%20-%20LANDSCAPE.jpg?alt=media&token=765ee695-8e50-4b8a-af65-8fb3e5093511"
+        ],
+        "totalLikes": 0,
+        "totalViewed": 1,
+        "totalWatched": 0,
+        "totalWatching": 0,
+        "totalInList": 0,
+        "createdAt": "2021-08-26T23:43:10.843Z",
+        "director": "Kayode Peters",
+        "prodCompany": "Jinti Cypress Production",
+        "movieData": {
+          "inList": false,
+          "status": "",
+          "liked": false,
+          "lastDuration": 0
+        },
+        "provider": {
+          "_id": "61289c7d9249953ed715dbd2",
+          "name": "Promse Prods",
+          "userId": "60fb39983a83a8b5e281c28b",
+          "description": "This is some description",
+          "imageURL": "https://bitunnel-box.s3.us-east-2.amazonaws.com/user_photos/584f0dd0-f5e6-41f4-981a-35ac3498a128.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEY2U7SZ2EMJQWGA%2F20201108%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20201108T230230Z&X-Amz-Expires=100&X-Amz-Signature=7ea7a562ebe8e72aefd4614b215786d2703b5b1ff010bb62d6aa85f128554d09&X-Amz-SignedHeaders=host",
+          "createdAt": "2021-08-27T08:04:13.590Z"
+        }
+      },
+      {
+        "_id": "6052fc7d9c7243434c6939df",
+        "description": "Rattle Snake",
+        "providerId": "600b2b92207cab6c5c595bcc",
+        "mediaURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/movies%2FRattlesnake.2019.720p.WEBRip.800MB.x264-GalaxyRG.mp4?alt=media&token=1d952826-b9a0-42c1-8791-c97c452702aa",
+        "previewURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/movies%2FRattlesnake.2019.720p.WEBRip.800MB.x264-GalaxyRG.mp4?alt=media&token=1d952826-b9a0-42c1-8791-c97c452702aa",
+        "posterURL": [
+          "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/movies%2Fposters%2FRattlesnakeCover.png?alt=media&token=5eedbcef-ae7d-41de-ad90-7099934a726a"
+        ],
+        "title": "Rattle Snake",
+        "userFirstName": "ANTHONY",
+        "userLastName": "IDIGBE",
+        "userImageURL": "https://firebasestorage.googleapis.com/v0/b/woozeee-d7f6c.appspot.com/o/Images%2F5fbb9bf6694f65ac33f8ff05%2Fprofile_image%2F1616045739668_c9m3im?alt=media&token=08056449-97d0-4af3-84a0-0ff1e285b743",
+        "totalViews": 0,
+        "userId": null,
+        "createdAt": "2021-03-18T07:08:45.190Z",
+        "totalViewed": 5,
+        "totalInList": 2,
+        "topTen": true,
+        "topTenLevel": 3,
+        "totalLikes": 1,
+        "price": "10",
+        "categories": ["61123f8886dd9a5cc3b62925", "610c452149a0134596ab0830"],
+        "featured": true,
+        "movieType": "movie",
+        "duration": 127000,
+        "movieData": {
+          "inList": false,
+          "status": "",
+          "liked": false,
+          "lastDuration": 0
+        },
+        "provider": null
+      }
+    ],
+    "comingSoon": [],
+    "previouslyViewed": [],
+    "myList": []
+  }
+}

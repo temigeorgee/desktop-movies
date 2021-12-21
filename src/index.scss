@@ -1,0 +1,20 @@
+@import "./scss/mixin";
+@import "./scss/variables";
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@font-face {
+  src: url("./font/Google-Sans-Fonts-master/GoogleSans-Medium.ttf");
+  font-family: google-sansRegular;
+}
+
+body {
+  font-family: google-sansRegular;
+  // font-family: 'Oswald', sans-serif !important;
+  background-color: $black;
+  color: $white;
+}

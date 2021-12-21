@@ -1,0 +1,30 @@
+.Homepage {
+  overflow: hidden;
+  transition: margin-left 0.5s;
+  //   padding: 16px;
+  margin-left: 85px;
+}
+.Homepagedesktop {
+  display: grid;
+  grid-template-columns: auto 1fr;
+}
+.sidebar {
+  height: 100%;
+  width: 85px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  white-space: nowrap;
+  overflow-x: hidden;
+  //   background-color: pink;
+  background-color: #111;
+  padding-top: 20px;
+  display: flex;
+}
+.sidebar .Homepage {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
